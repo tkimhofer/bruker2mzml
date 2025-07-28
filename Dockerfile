@@ -12,7 +12,7 @@ RUN pip3 install --break-system-packages -r requirements.txt
 
 
 COPY . .
-RUN chmod 777 /app/bconvert1.py
+RUN chmod 777 /app/bconvert.py
 
 ENTRYPOINT ["python3", "bconvert.py"]
 
