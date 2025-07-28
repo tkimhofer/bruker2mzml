@@ -1,3 +1,5 @@
+[![Docker Image CI](https://github.com/tkimhofer/bruker2mzml/actions/workflows/docker-image.yml/badge.svg)](https://github.com/tkimhofer/bruker2mzml/actions/workflows/docker-image.yml)
+
 # Bruker2mzML Converter
 
 **Bruker2mzML** is a cross-platform command-line tool for converting Bruker mass spectrometry `.d` folders into open formats like `.mzML`.  
