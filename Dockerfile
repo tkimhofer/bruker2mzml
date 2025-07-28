@@ -1,7 +1,7 @@
 # syntax=docker/dockerfile:1
 
 FROM debian:bookworm
-LABEL author="torben.kimhofer@murdoch.edu.au"
+LABEL author="tkimhofer@gmail.com"
 
 WORKDIR /app
 
